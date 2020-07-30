@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a72157c-b578-4a9f-93cd-3e82bfda4381" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="295" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eO4BezmLPOvKDdWeAMpl2xhRkg" />
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="Open Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo-consumer-women/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AdvancedConfigurable" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dubbo.service" />
+      <recent name="com.dubbo.provider.woman.service.impl" />
+      <recent name="com.dubbo.provider.woman" />
+      <recent name="com.dubbo.consumer.woman" />
+      <recent name="com.dubbo.provider.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-consumer-women\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-provider-women\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-provider-woman\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-consumer-woman\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-provider\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DubboConsumerWomenApplication">
+    <configuration name="DubboConsumerWomenApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.consumer.women.DubboConsumerWomenApplication" />
+      <module name="dubbo-consumer-women" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.consumer.women.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProviderWomenApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.provider.women.DubboProviderWomenApplication" />
+      <module name="dubbo-provider-women" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.provider.women.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DubboProviderWomenApplication" />
+      <item itemvalue="Application.DubboConsumerWomenApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DubboConsumerWomenApplication" />
+        <item itemvalue="Application.DubboProviderWomenApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a72157c-b578-4a9f-93cd-3e82bfda4381" name="Default Changelist" comment="" />
+      <created>1594179170452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594179170452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dubbo_demo$DubboRegistryZooKeeperConsumerBootstrap.ic" NAME="DubboRegistryZooKeeperConsumerBootstrap Coverage Results" MODIFIED="1594343410336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dubbo.consumer.woman.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/dubbo_demo$DubboProviderWomenApplication.ic" NAME="DubboProviderWomenApplication Coverage Results" MODIFIED="1594636032543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dubbo.provider.women.*</FILTER>
+    </SUITE>
+  </component>
+</project>
