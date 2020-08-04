@@ -12,6 +12,8 @@ public class HelloServiceImpl implements HelloService {
     @Value("${dubbo.application.name}")
     private String serviceName;
     @Override
+
+
     public String sayHello(String name) {
         System.out.println(name);
 
