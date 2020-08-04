@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a72157c-b578-4a9f-93cd-3e82bfda4381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/classes/META-INF/dubbo-api.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer-women/target/classes/META-INF/dubbo-consumer-women.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer-women/target/classes/com/dubbo/consumer/women/controller/WomenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer-women/target/classes/com/dubbo/consumer/women/controller/WomenController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/controller/SchoolController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/controller/SchoolController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider-women/target/classes/com/dubbo/provider/women/service/impl/WomenServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-women/target/classes/com/dubbo/provider/women/service/impl/WomenServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/DubboProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/DubboProviderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/HelloServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/SchoolServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/SchoolServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/META-INF/dubbo-provider.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/DubboProviderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/DubboProviderApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/HelloServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/HelloServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/SchoolServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/SchoolServiceImpl.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +170,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
