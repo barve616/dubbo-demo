@@ -1,0 +1,22 @@
+#配置端口
+server:
+  port: 9002
+dubbo:
+#- 扫描service
+  scan:
+    base-packages: com.dubbo.provider.service
+  #提供方应用名，用于计算依赖关系
+  application:
+    name: dubbo-provider
+    #注册中心
+  registry:
+    address: zookeeper://127.0.0.1:2181?client=curator
+#用dubbo协议在20880端口暴露服务协议配置
+  protocol:
+    name: dubbo
+    port: 20883
+demo:
+  service:
+    version: 1.0.0
+
+

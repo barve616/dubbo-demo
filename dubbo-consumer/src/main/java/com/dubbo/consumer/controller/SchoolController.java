@@ -8,7 +8,7 @@ import java.util.List;
 @RestController
 public class SchoolController {
     //引用远程服务
-    @DubboReference
+    @DubboReference()
     private  SchoolService schoolService;
     @RequestMapping(value = "/school")
     public String school(){

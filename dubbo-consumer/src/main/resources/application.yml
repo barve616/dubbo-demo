@@ -1,0 +1,14 @@
+# 配置端口
+server:
+  port: 9022
+
+#消费方应用名，用于计算依赖关系
+dubbo:
+  application:
+    name: dubbo-consumer
+  #配置Zookeeper注册中心
+  registry:
+    address: zookeeper://127.0.0.1:2181?client=curator
+demo:
+  service:
+    version: 1.0.0

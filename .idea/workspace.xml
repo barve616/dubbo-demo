@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a72157c-b578-4a9f-93cd-3e82bfda4381" name="Default Changelist" comment="" />
+    <list default="true" id="7a72157c-b578-4a9f-93cd-3e82bfda4381" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-api/target/classes/META-INF/dubbo-api.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer-women/target/classes/META-INF/dubbo-consumer-women.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer-women/target/classes/com/dubbo/consumer/women/controller/WomenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer-women/target/classes/com/dubbo/consumer/women/controller/WomenController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/controller/SchoolController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/consumer/controller/SchoolController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-women/target/classes/com/dubbo/provider/women/service/impl/WomenServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-women/target/classes/com/dubbo/provider/women/service/impl/WomenServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/DubboProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/DubboProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/SchoolServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dubbo/provider/service/impl/SchoolServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/META-INF/dubbo-provider.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/DubboProviderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/DubboProviderApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/HelloServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/HelloServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/SchoolServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/dubbo/provider/service/impl/SchoolServiceImpl.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +46,15 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="dubbo-api/invalid/JRebel" />
+      <facet id="dubbo-consumer/invalid/JRebel" />
+      <facet id="dubbo-provider/invalid/JRebel" />
+    </ignored-facets>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,12 +65,13 @@
   </component>
   <component name="ProjectId" id="1eO4BezmLPOvKDdWeAMpl2xhRkg" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="Open Files" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo-consumer-women/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo-provider/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AdvancedConfigurable" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -54,11 +85,11 @@
       <recent name="com.dubbo.provider.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\优惠券项目文件\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-provider\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\优惠券项目文件\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-consumer\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-consumer-women\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-provider-women\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-provider-woman\src\main\resources" />
-      <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-consumer-woman\src\main\resources" />
-      <recent name="C:\Users\Administrator\Desktop\SpringBootDemo-Dubbo-master\springboot-dubbo\dubbo-provider\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,13 +104,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DubboConsumerWomenApplication">
+  <component name="RunManager" selected="Application.DubboProviderApplication">
+    <configuration name="DubboConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.consumer.DubboConsumerApplication" />
+      <module name="dubbo-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DubboConsumerWomenApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dubbo.consumer.women.DubboConsumerWomenApplication" />
       <module name="dubbo-consumer-women" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dubbo.consumer.women.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProviderApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.provider.DubboProviderApplication" />
+      <module name="dubbo-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.provider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,9 +160,13 @@
     <list>
       <item itemvalue="Application.DubboProviderWomenApplication" />
       <item itemvalue="Application.DubboConsumerWomenApplication" />
+      <item itemvalue="Application.DubboProviderApplication" />
+      <item itemvalue="Application.DubboConsumerApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DubboProviderApplication" />
+        <item itemvalue="Application.DubboConsumerApplication" />
         <item itemvalue="Application.DubboConsumerWomenApplication" />
         <item itemvalue="Application.DubboProviderWomenApplication" />
       </list>
@@ -123,6 +184,17 @@
       <updated>1594179170452</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dubbo_demo$DubboRegistryZooKeeperConsumerBootstrap.ic" NAME="DubboRegistryZooKeeperConsumerBootstrap Coverage Results" MODIFIED="1594343410336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
